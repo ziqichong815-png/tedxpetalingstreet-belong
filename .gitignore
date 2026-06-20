@@ -8,3 +8,10 @@ TEDxPetalingStreet Partnership Proposal (2026).pdf
 
 # Claude Code session files
 .claude/
+
+# wrangler files
+.wrangler
+.dev.vars*
+!.dev.vars.example
+.env*
+!.env.example
