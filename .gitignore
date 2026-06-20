@@ -1,0 +1,10 @@
+# Proposal document — keep private
+TEDxPetalingStreet Partnership Proposal (2026).pdf
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Claude Code session files
+.claude/
